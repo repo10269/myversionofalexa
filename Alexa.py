@@ -1,4 +1,4 @@
-import speech_recognition as sr
+'''import speech_recognition as sr
 import pyttsx3
 import pywhatkit
 
@@ -35,4 +35,4 @@ def run_script():
         talk('playing' + song)
         pywhatkit.playonyt(song)
 
-run_alexa()
+run_alexa()'''
